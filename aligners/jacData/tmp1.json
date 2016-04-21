@@ -1,0 +1,11 @@
+[
+	{
+	"name": "1",
+	"id": "",
+	"source": "Is it inappropriate to spend personal resources for the company 's benefit ?",
+	"target": "Is it ethical\/legal to use the University 's resources for a personal project ?",
+	"score": "9.862228393554688",
+	"sureAlign": "0-0 1-1 2-2 3-3 4-4 5-11 6-8 7-9 12-13",
+	"possibleAlign": ""
+	}
+]
